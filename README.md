@@ -1,5 +1,5 @@
 # 画像処理入門
-1. [動画像の入出力](./io/)
+1. [動画像の入出力](./doc/io/)
 1. [画像の編集](./editing/)
 1. [色情報の変換](./color_info_conversion/)
 1. [色情報に基づく領域抽出](./extract_region_color/)
